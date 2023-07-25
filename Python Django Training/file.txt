@@ -1,0 +1,2 @@
+1551 is odd number
+1551 reverse is 1551
